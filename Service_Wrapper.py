@@ -41,6 +41,8 @@ import threading
 
 
 
+print("Python Executable Path:", sys.executable)
+print("Python Version:", sys.version)
 
 # Ensure the main alchemy_v9 script can be found
 SCRIPT_PATH = r"c:\Users\muham.CRUX_NIVAS\Desktop\my_works\python\testpython\alchemy_v9.py"  # Update this path
