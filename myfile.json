@@ -1,0 +1,24 @@
+[
+    {
+        "operation": "create",
+        "table": "users",
+        "data": {"id": 4, "name": "John Doe", "email": "john@example.com"}
+    }, 
+    {
+        "operation": "create",
+        "table": "users",
+        "data": {"id": 3, "name": "John cena", "email": "johncena@example.com"}
+    },
+    {
+        "operation": "update",
+        "table": "users",
+        "condition": {"id": 1},
+        "data": {"email": "john.new@example.com"}
+    },
+    {
+        "operation": "delete",
+        "table": "users",
+        "condition": {"id": 1}
+    }
+]
+

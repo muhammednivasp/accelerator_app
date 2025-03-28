@@ -1,0 +1,11 @@
+2025-03-27 17:17:18,568 - INFO - Created record in 'users': {'id': 1, 'name': 'John mark', 'email': 'john@example.com'}
+2025-03-27 17:17:18,628 - INFO - Created record in 'users': {'id': 2, 'name': 'John cena', 'email': 'johncena@example.com'}
+2025-03-27 17:17:18,709 - INFO - Created record in 'workers': {'id': 10, 'name': 'John', 'email': 'john@example123.com', 'age': 26, 'job': 'developer'}
+2025-03-27 17:18:19,844 - INFO - Created record in 'users': {'id': 2, 'name': 'John cena', 'email': 'johncena@example.com'}
+2025-03-27 17:19:34,959 - INFO - Created record in 'users': {'id': 2, 'name': 'John cena', 'email': 'johncena@example.com'}
+2025-03-27 17:21:08,556 - INFO - Created record in 'users': {'id': 2, 'name': 'John cena', 'email': 'johncena@example.com'}
+2025-03-27 17:21:08,635 - INFO - Created record in 'workers': {'id': 10, 'name': 'John', 'email': 'john@example123.com'}
+2025-03-27 17:21:38,195 - INFO - Created record in 'users': {'id': 2, 'name': 'John cena', 'email': 'johncena@example.com'}
+2025-03-28 14:36:04,739 - INFO - Created record in 'users': {'id': 2, 'name': 'John cena', 'email': 'johncena@example.com'}
+2025-03-28 15:09:20,730 - INFO - Created record in 'users': {'id': 2, 'name': 'John cena', 'email': 'johncena@example.com'}
+2025-03-28 15:16:08,738 - INFO - Created record in 'users': {'id': 2, 'name': 'John cena', 'email': 'johncena@example.com'}

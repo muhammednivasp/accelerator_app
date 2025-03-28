@@ -1,0 +1,14 @@
+2025-03-25 12:45:55,062 - INFO - Response Status Code: 200
+2025-03-25 12:45:55,063 - INFO - Creating table: users
+2025-03-25 12:45:55,137 - INFO - Created record in 'users': {'id': 1, 'name': 'John mark', 'email': 'john@example.com'}
+2025-03-25 12:45:55,139 - INFO - Created record in 'users': {'id': 2, 'name': 'John cena', 'email': 'johncena@example.com'}
+2025-03-25 12:45:55,144 - INFO - Updated record in 'users': {'email': 'john.new@example.com'}
+2025-03-25 12:45:55,148 - INFO - Deleted record from 'users' with condition {'id': 2}
+2025-03-25 12:45:55,148 - INFO - Creating table: workers
+2025-03-25 12:45:55,188 - INFO - Created record in 'workers': {'id': 10, 'name': 'John', 'email': 'john@example123.com'}
+2025-03-25 12:47:06,794 - INFO - Response Status Code: 200
+2025-03-25 12:47:06,799 - WARNING - Record with the same ID already exists in 'users'. Skipping.
+2025-03-25 12:47:06,802 - INFO - Created record in 'users': {'id': 2, 'name': 'John cena', 'email': 'johncena@example.com'}
+2025-03-25 12:47:06,806 - INFO - Updated record in 'users': {'email': 'john.new@example.com'}
+2025-03-25 12:47:06,811 - INFO - Deleted record from 'users' with condition {'id': 2}
+2025-03-25 12:47:06,811 - ERROR - New columns detected in 'workers': {'age'}. Rolling back operation.

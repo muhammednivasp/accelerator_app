@@ -1,0 +1,10 @@
+2025-03-27 17:18:19,774 - WARNING - Duplicate record in 'users' with data {'id': 1, 'name': 'John mark', 'email': 'john@example.com'}. Skipping.
+2025-03-27 17:18:19,858 - WARNING - Duplicate record in 'workers' with data {'id': 10, 'name': 'John', 'email': 'john@example123.com', 'age': 26, 'job': 'developer'}. Skipping.
+2025-03-27 17:19:34,904 - WARNING - Duplicate record in 'users' with data {'id': 1, 'name': 'John mark', 'email': 'john@example.com'}. Skipping.
+2025-03-27 17:19:34,906 - WARNING - Duplicate record in 'workers' with data {'id': 10, 'name': 'John', 'email': 'john@example123.com'}. Skipping.
+2025-03-27 17:21:08,490 - WARNING - Duplicate record in 'users' with data {'id': 1, 'name': 'John mark', 'email': 'john@example.com'}. Skipping.
+2025-03-27 17:21:38,139 - WARNING - Duplicate record in 'users' with data {'id': 1, 'name': 'John mark', 'email': 'john@example.com'}. Skipping.
+2025-03-28 14:36:04,673 - WARNING - Duplicate record in 'users' with data {'id': 1, 'name': 'John mark', 'email': 'john@example.com'}. Skipping.
+2025-03-28 15:09:20,672 - WARNING - Duplicate record in 'users' with data {'id': 1, 'name': 'John mark', 'email': 'john@example.com'}. Skipping.
+2025-03-28 15:09:20,675 - WARNING - Record not found in 'users' for delete with condition {'id': 2}.
+2025-03-28 15:16:08,682 - WARNING - Duplicate record in 'users' with data {'id': 1, 'name': 'John mark', 'email': 'john@example.com'}. Skipping.

@@ -1,0 +1,4 @@
+2025-03-27 17:21:38,138 - ERROR - New columns detected in 'workers': {'job', 'age'}. Rolling back operation.
+2025-03-28 14:36:04,666 - ERROR - New columns detected in 'workers': {'job', 'age'}. Rolling back operation.
+2025-03-28 15:09:20,674 - ERROR - New columns detected in 'workers': {'age', 'job'}. Rolling back operation.
+2025-03-28 15:16:08,685 - ERROR - New columns detected in 'workers': {'job', 'age'}. Rolling back operation.

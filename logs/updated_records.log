@@ -1,0 +1,8 @@
+2025-03-27 17:17:18,649 - INFO - Updated record in 'users': {'email': 'john.new@example.com'} with condition {'id': 1}
+2025-03-27 17:18:19,851 - INFO - Updated record in 'users': {'email': 'john.new@example.com'} with condition {'id': 1}
+2025-03-27 17:19:34,967 - INFO - Updated record in 'users': {'email': 'john.new@example.com'} with condition {'id': 1}
+2025-03-27 17:21:08,561 - INFO - Updated record in 'users': {'email': 'john.new@example.com'} with condition {'id': 1}
+2025-03-27 17:21:38,201 - INFO - Updated record in 'users': {'email': 'john.new@example.com'} with condition {'id': 1}
+2025-03-28 14:36:04,752 - INFO - Updated record in 'users': {'email': 'john.new@example.com'} with condition {'id': 1}
+2025-03-28 15:09:20,732 - INFO - Updated record in 'users': {'email': 'john.new@example.com'} with condition {'id': 1}
+2025-03-28 15:16:08,685 - INFO - Updated record in 'users': {'email': 'john.new@example.com'} with condition {'id': 1}
